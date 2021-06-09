@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1l3lV/dlxMk/2Xhfi0fYC5yv06Z0FwNwFHoWRYwwa2o5p+DteFA4l7gCnVXWxvedXSLlKxZqUjQfO3gI/UXzVg==",
+  "success": true,
+  "projectFilePath": "E:\\PR_16\\PR_16\\PR_16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\club-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
